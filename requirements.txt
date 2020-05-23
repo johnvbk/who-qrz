@@ -1,0 +1,23 @@
+appnope==0.1.0
+backcall==0.1.0
+certifi==2020.4.5.1
+chardet==3.0.4
+decorator==4.4.2
+idna==2.9
+ipdb==0.13.2
+ipython==7.14.0
+ipython-genutils==0.2.0
+jedi==0.17.0
+parso==0.7.0
+pexpect==4.8.0
+pickleshare==0.7.5
+prompt-toolkit==3.0.5
+ptyprocess==0.6.0
+Pygments==2.6.1
+-e git+https://github.com/johnvbk/pyQRZ.git@85eadf343bf68333c45c0a61e99c505cd3bca421#egg=pyQRZ
+requests==2.23.0
+six==1.15.0
+traitlets==4.3.3
+urllib3==1.25.9
+wcwidth==0.1.9
+xmltodict==0.12.0

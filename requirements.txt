@@ -14,7 +14,7 @@ pickleshare==0.7.5
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 Pygments==2.6.1
--e git+https://github.com/johnvbk/pyQRZ.git@85eadf343bf68333c45c0a61e99c505cd3bca421#egg=pyQRZ
+pyQRZ @ git+https://github.com/johnvbk/pyQRZ.git@a978358a5c33d74cc35bdeaa6794f7e982c4053d
 requests==2.23.0
 six==1.15.0
 traitlets==4.3.3

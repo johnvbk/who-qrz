@@ -18,6 +18,6 @@ pyQRZ @ git+https://github.com/johnvbk/pyQRZ.git@a978358a5c33d74cc35bdeaa6794f7e
 requests==2.23.0
 six==1.15.0
 traitlets==4.3.3
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.1.9
 xmltodict==0.12.0
